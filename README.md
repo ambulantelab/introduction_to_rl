@@ -1,13 +1,25 @@
-# introduction_to_rl
-Course repository for Introduction to Reinforcement Learning Course offered by Cal Poly Computer Engineeirng Program.
+# RL From Scratch
 
-# Required Dependenices
-- Python 3.10+
--  NumPy — all core RL logic
--  Gymnasium — environments only
--  matplotlib — visualization
--   PyTorch — Weeks 9–11 only
+This repository accompanies a reinforcement learning course focused on
+implementing algorithms from first principles.
 
-Optional
-- PettingZoo — games & multi-agent RL
--  pytest — grading & correctness checks
+## Rules
+- All algorithms must be implemented in `.py` files
+- Notebooks are for visualization and analysis only
+- External RL libraries are not permitted
+
+## Setup
+```bash
+pip install -r requirements.txt
+
+---
+
+## 9. Instructor Notes
+
+- This repo is intentionally incomplete: students fill in algorithms
+- Designed for pytest-based autograding
+- Easily extensible to robotics (ROS2, real sensors)
+
+---
+
+**This repository is ready to be pushed directly to GitHub and used on Day 1.**
