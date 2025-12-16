@@ -11,15 +11,12 @@ implementing algorithms from first principles.
 ## Setup
 ```bash
 pip install -r requirements.txt
+```
 
----
-
-## 9. Instructor Notes
+## Instructor Notes
 
 - This repo is intentionally incomplete: students fill in algorithms
 - Designed for pytest-based autograding
 - Easily extensible to robotics (ROS2, real sensors)
 
----
-
-**This repository is ready to be pushed directly to GitHub and used on Day 1.**
+**This repository was designed for use with Github classroom.**
